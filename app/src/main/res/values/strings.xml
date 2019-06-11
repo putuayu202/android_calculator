@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GDK</string>
+    <string name="length">Panjang</string>
+    <string name="widht">Lebar</string>
+    <string name="tall">Tinggi</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Hasil</string>
+</resources>
